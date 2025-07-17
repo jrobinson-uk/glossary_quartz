@@ -1,4 +1,8 @@
-tags	aliases
+---
+tags:
+aliases:
+---
+
 Algebra
 [!definition]+ Stage 1
 
